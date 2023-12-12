@@ -1,0 +1,14 @@
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\bin\Debug\net8.0\CS_Sem_4.exe
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\bin\Debug\net8.0\CS_Sem_4.deps.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\bin\Debug\net8.0\CS_Sem_4.runtimeconfig.json
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\bin\Debug\net8.0\CS_Sem_4.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\bin\Debug\net8.0\CS_Sem_4.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\refint\CS_Sem_4.dll
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.pdb
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\CS_Sem_4.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\C#Сетевое приложение\CS_Sem_4\CS_Sem_4\obj\Debug\net8.0\ref\CS_Sem_4.dll
